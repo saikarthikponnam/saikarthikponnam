@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
 🎓 &nbsp;I completed graduation in Guru Nanak institute of Technology in the stream of Informtaion Technology .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like to play cricket and chess.
+✍️ &nbsp;In my free time, I like to play cricket and chess.\
 
 ---
 
@@ -39,11 +39,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ponnam-sai-karthik-a7322022a"><img src="https://img.shields.io/badge/-Sai%20Karthik%20Ponnam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ponnamkarthik2003@gmail.com"><img src="https://img.shields.io/badge/-ponnamkarthik2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/karthikchowdary_18/profilecard/?igsh=MWwza2J2b3kxNTBmbQ=="><img src="https://img.shields.io/badge/-@Karthik__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@Karthik-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/karthik.ponnam.982?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-@Karthik-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <p align="center">
