@@ -41,9 +41,9 @@
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ponnam-sai-karthik-a7322022a"><img src="https://img.shields.io/badge/-Sai%20Karthik%20Ponnam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ponnamkarthik2003@gmail.com"><img src="https://img.shields.io/badge/-karthik@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:ponnamkarthik2003@gmail.com"><img src="https://img.shields.io/badge/-ponnamkarthik2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/karthikchowdary_18/profilecard/?igsh=MWwza2J2b3kxNTBmbQ=="><img src="https://img.shields.io/badge/-@Karthik__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@Karthik-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <p align="center">
