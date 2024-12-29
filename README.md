@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
 🎓 &nbsp;I completed graduation in Guru Nanak institute of Technology in the stream of Informtaion Technology .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like to play cricket and chess.\
+✍️ &nbsp;In my free time, I like to play cricket and chess.
 
 ---
 
